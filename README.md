@@ -1,2 +1,2 @@
 # Digital-Clock
-![Digital-clock-image]()
+![Digital-clock-image](ss.jpg)
